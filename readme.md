@@ -1,4 +1,4 @@
-# DASN - SIMEI | Declaração de Faturamento do MEI (Simples Nacional) #
+# MeiAjuda! | Declaração de Faturamento do MEI (Simples Nacional) #
 
 Projeto de Estudos onde vou documentando os avanços dos meus estudos em um projeto real.
 A proposta é importar arquivos exportados pelos bancos (primeiramente csv, e posteriormente pdf/xls), considerar todas as transações positivas e somá-las para obter o valor final necessário para a declaração.
